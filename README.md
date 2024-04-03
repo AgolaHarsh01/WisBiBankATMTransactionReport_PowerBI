@@ -1,6 +1,6 @@
 # WisBiBankATMTransactionReport_PowerBI
 
-Overview: 
+## Overview: 
 
 --> The purpose of this project is to analyze the ATM transaction data for Wisabi Bank to gain insights on customer behavior, ATM usage, and identify opportunities to improve the bank's services.
 
@@ -8,8 +8,11 @@ Overview:
 
 ![First_image](https://github.com/AgolaHarsh01/WisBiBankATMTransactionReport_PowerBI/assets/139684996/bca88e70-3148-49dc-967c-6282b4b799bd)
 
+![Second_image](https://github.com/AgolaHarsh01/WisBiBankATMTransactionReport_PowerBI/assets/139684996/173bda2f-1c8b-4fe9-a1c3-d92e39cc2a4f)
 
-Business Requirements:
+
+
+## Business Requirements:
 
 •	Analyze the ATM transaction data and generate reports and visualizations that show the most popular ATM locations and transaction types by time of day, day of week, and month.
 
