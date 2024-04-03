@@ -6,6 +6,7 @@ Overview:
 
 --> This project will focus on analyzing ATM transactions for Wisabi Bank from January 1st, 2022 to December 31st, 2022. The analysis will be conducted at the location level and will cover all the bank's branches in Lagos, Kano, Rivers State, Enugu, Rivers, and FCT Abuja.
 
+![First_image](https://github.com/AgolaHarsh01/WisBiBankATMTransactionReport_PowerBI/assets/139684996/bca88e70-3148-49dc-967c-6282b4b799bd)
 
 
 Business Requirements:
